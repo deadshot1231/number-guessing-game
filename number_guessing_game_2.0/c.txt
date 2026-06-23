@@ -1,0 +1,19 @@
+#000328  Background
+#042B55  Panels
+#fff708  Title
+
+#4a9e48  Easy
+#10DF77  Success
+#46b83d  New Game
+
+#ffcb50  Win
+#f4d444  Guess Button
+#ff930f  Score
+
+#cf203e  Hard
+#c5302e  Rule Button
+#e93a28  Attempts
+#f74c06  Too High
+
+#b5c6e0  Labels
+#d3eef4  Best Score
